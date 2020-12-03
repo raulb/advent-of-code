@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "target": "es2017",
+    "strict": true,
+    "noImplicitAny": true,
+    "strictNullChecks": true,
+    "esModuleInterop": true,
+  },
+  "exclude": [
+    "./tests/",
+    "./node_modules/",
+    "./dist/"
+  ]
+}
