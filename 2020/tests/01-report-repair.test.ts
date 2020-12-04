@@ -1,7 +1,7 @@
 import { ReportRepair } from '../lib/01-report-repair';
 import { expect } from 'chai';
 import { describe } from 'mocha';
-import { DATA } from '../data/01-report-repair';
+import { DATA } from '../lib/data/01-report-repair';
 
 const TEST_DATA = [
   1721,
